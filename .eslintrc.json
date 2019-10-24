@@ -21,6 +21,7 @@
         "no-undef":"off",
         "max-len": 0,
         "import/newline-after-import":"off",
-        "no-unused-vars":0
+        "no-unused-vars":0,
+        "linebreak-style": "off"
     }
 }

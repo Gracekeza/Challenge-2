@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "scripts": {},
+  "scripts": {
+    "start": "nodemon start.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Gracekeza/Challenge-2.git"
